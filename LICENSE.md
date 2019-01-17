@@ -8,6 +8,8 @@ This work is copyright © National University of Singapore.
 
 This work is derived from [carpentries/styles][styles] , which is copyright © Software  Carpentry and is licenced from [The Carpentries][the-carpentries] under [CC-BY-4.0][cc-by-human]
 
+This work is derived from [carpentries/shell-novice], which is copyright © [Software Carpentry](http://software-carpentry.org/) and is licenced from under [CC-BY-4.0][cc-by-human]
+
 This work is made available under the [Creative Commons Attribution
 license][cc-by-human]. 
 
@@ -51,4 +53,6 @@ Notices:
 [ci]: http://communityin.org/
 [osi]: https://opensource.org
 [the-carpentries]: https://carpentries.org
-[styles]: https://github.com/carpentries/s<tyles/
+[styles]: https://github.com/carpentries/styles/
+[carpentries/shell-novice]: https://github.com/swcarpentry/shell-novice
+[Software Carpentry]: https://github.com/swcarpentry
